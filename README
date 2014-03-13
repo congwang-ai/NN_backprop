@@ -1,0 +1,12 @@
+Pretty simple stuff here...  to compile from 
+a command line
+
+gcc backprop.c -lm
+
+(add other command line options as you see fit).
+
+Yeah... it #includes code from the rng folder, and #including
+code is lame.  Fix it if it bothers you that much ;)
+
+jcg
+
